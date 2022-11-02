@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rafael França, estudante de programação!
+## 👋 Oi, Sou o Rafael França. Estou interessado em aprender programação. Atualmente estou estudando java. 
 
 
 
