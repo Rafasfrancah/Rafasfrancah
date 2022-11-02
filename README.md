@@ -1,9 +1,6 @@
 ## Olá! Eu sou o Rafael França, estudante de programação!
 
 
-- 🔭 Ainda não trabalho com programação
-- 🌱 Estudando Java
-- 📫 Contate-me no email: rafasfrancah@gmail.com
 
 <div align="center">
   <a href="https://github.com/Rafasfrancah">
