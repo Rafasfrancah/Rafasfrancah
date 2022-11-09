@@ -8,9 +8,6 @@ Estudo programação "Java".
   <img height="141em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafasfrancah&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
-
-
-
  
 <div  align="center"> 
   <div style="display: inline_block"><br>
