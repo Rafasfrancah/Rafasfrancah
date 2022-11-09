@@ -1,4 +1,4 @@
-## 👋 Fala, pessoal! Eu sou a Rafael França, estudante de programação e tecnologia! 
+## 👋 Fala, pessoal! Me chamo Rafael França, sou estudante de programação e tecnologia! 
 
 
 
