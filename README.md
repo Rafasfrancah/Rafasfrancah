@@ -16,7 +16,7 @@ Estudo programação "Java".
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias </h1>
-  <img align="center" alt="Rafa-Python" height="90" width="100" 
+  <img align="center" alt="Rafa-Python" height="120" width="130" 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <div style="display: flex; justify-content: space-between;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
