@@ -40,4 +40,4 @@ Estudo programação "Java".
   
 </div>
   
-![Snake animation](https://github.com/Rafasfrancah/Rafasfrancah/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rafasfrancah/Rafasfrancah/blob/output/github-contribution-grid-snake.svg)
