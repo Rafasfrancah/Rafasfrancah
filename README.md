@@ -5,14 +5,17 @@ Estudo programação e atualmente estou me esforçando para aprender Java.
 
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafasfrancah&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafasfrancah&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="141em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafasfrancah&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 
-## Tecnologias
+
 
  
- <div style="display: inline_block"><br>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Tecnologias </h1>
   <img align="center" alt="Rafa-Python" height="90" width="100" 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <div style="display: flex; justify-content: space-between;"> <br>
