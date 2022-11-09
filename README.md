@@ -8,24 +8,22 @@
   <img height="141em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafasfrancah&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
- 
+
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias </h1>
   <img align="center" alt="Rafa-Python" height="120" width="130" 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
- <div style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="150" alt="coding-time" src="code.gif">
+
  
   
 </div>
-  
- ## Redes sociais
+ 
 
 <div> 
  
- 
+ <h1 align="center">Redes Sociais </h1>
   <a href="https://instagram.com/rafasfrancah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	  <a href = "mailto:rafasfrancah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-frança-480006246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
