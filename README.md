@@ -1,5 +1,5 @@
-## 👋 Oi, Sou o Rafael França. 
-Estudo programação "Java".
+## 👋 Fala, pessoal! Eu sou a Rafael França, estudante de programação e tecnologia! 
+
 
 
 
