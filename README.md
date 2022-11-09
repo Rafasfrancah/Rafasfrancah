@@ -3,20 +3,25 @@ Estudo programação e atualmente estou me esforçando para aprender Java.
 
 
 
-<div align="center">
-  <a href="https://github.com/Rafasfrancah">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafasfrancah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafasfrancah&layout=compact&langs_count=7&theme=dark"/>
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafasfrancah&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafasfrancah&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
- ##
+
+## Tecnologias
 
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="90" width="100" 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <div style="display: flex; justify-content: space-between;"> <br>
+  <img align="left"height="150" alt="coding-time" src="code.gif">
  
- ##
+  
+</div>
+  
+ ## Redes sociais
 
 <div> 
  
@@ -31,3 +36,5 @@ Estudo programação e atualmente estou me esforçando para aprender Java.
    <a href="https://discord.com/channels/@me/<5585996422997>" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
 </div>
+  
+![Snake animation](https://github.com/Rafasfrancah/Rafasfrancah/blob/output/github-contribution-grid-snake.svg)
