@@ -10,11 +10,10 @@
 
 
 <div  align="center"> 
-   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias </h1>
-  <img align="center" alt="Rafa-Python" height="120" width="130" 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <div style="display: inline_block"><br>
+    <img align="left" height="100" alt="coding-time" src="code.gif">
+    <h1 align="center"> Tecnologias </h1>
+  <img align="center" alt="Rafa-Python" height="120" width="130" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
  
   
