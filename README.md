@@ -1,5 +1,5 @@
 ## 👋 Oi, Sou o Rafael França. 
-Estudo programação e atualmente estou me esforçando para aprender Java.
+Estudo programação "Java".
 
 
 
