@@ -1,12 +1,15 @@
 ## <h2><img height="30px" width="30px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></img>Fala, pessoal!</h2><hr style='background-color:#e67e22;border-width:0;color:#000000;height:8px;line-height:0;text-align:left;width:50%;'/> <blockquote>Me chamo Rafael França, sou estudante de programação e tecnologia! </blockquote> 
 
 
-
-
-
 <div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafasfrancah&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="141em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafasfrancah&layout=compact&langs_count=16&theme=great-gatsby"/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafasfrancah&show_icons=true&theme=algolia)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafasfrancah)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  
+ 
+ 
 </div>
 
 
@@ -18,11 +21,8 @@
   <img align="center" alt="Rafa-Js" height="120" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="120" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="120" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="120" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-React" height="160" width="170" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+         
           
-             
- 
                       
 </div>
  
