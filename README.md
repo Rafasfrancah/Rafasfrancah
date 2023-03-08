@@ -3,11 +3,9 @@
  
 
 <div  align="center">
-<h1 align="center"> 📊 GitHub Stats </h1>      
-       
-       
+<h1 align="center"> 📊 GitHub Stats </h1>  
+           
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rafasfrancah&theme=algolia&hide_border=false)<br/>
 
        
   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafasfrancah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br/>
