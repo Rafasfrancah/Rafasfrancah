@@ -2,18 +2,6 @@
 
  
 
-<div  align="center">
-<h1 align="center"> 📊 GitHub Stats </h1>  
-           
-
-
-       
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafasfrancah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br/>
-       
-  <img width="400px" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafasfrancah&layout=compact&langs_count=16&theme=algolia"/>
-
-   
-</div>
 
 
   <div  align="center"> 
